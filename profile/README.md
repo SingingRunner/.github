@@ -1,10 +1,8 @@
-# Singing Runner
 
 <!-- PROJECT LOGO -->
 <br/>
-<div align="center">
-	<img>
-</div>
+
+![image](https://github.com/SingingRunner/.github/blob/main/profile/Logo-Singing-Runner.png?raw=true)
 
 
 <!-- TABLE OF CONTENTS -->
