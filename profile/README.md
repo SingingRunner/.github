@@ -27,7 +27,7 @@
 
 팀원 : [이주희](https://github.com/e-juhee)(FE), [김경민](https://github.com/KoziKim)(FE), [박형인](https://github.com/Hin1209)(FE/BE), [조민기](https://github.com/camel0000)(BE), [오민규](https://github.com/Recordum)(BE)
 
-기술 스택 : 
+#### 기술 스택
 <div align="center">
 <strong>Frontend</strong>
 </div>
