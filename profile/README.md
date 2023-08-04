@@ -44,6 +44,8 @@
 
 **현장 발표 영상 : [바로가기](https://www.youtube.com/watch?v=_YiVBs4rrZ4&t=2s)**
 
+**[서비스 바로가기](https://injungle.shop)**
+
 <br/>
 
 <a name="Arch"></a>
